@@ -1,0 +1,11 @@
+{
+  "project_id": "example-campaign",
+  "client_id": "example-auto-repair",
+  "name": "汽车维修短视频试运行",
+  "objective": "验证从分镜到成片审核的流程",
+  "platforms": ["抖音", "视频号"],
+  "status": "brief",
+  "created_at": "2026-09-18T00:00:00+08:00",
+  "content_ids": []
+}
+

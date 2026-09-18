@@ -1,0 +1,15 @@
+{
+  "client_id": "example-auto-repair",
+  "brand_name": "示例汽车维修中心",
+  "industry": "汽车维修",
+  "default_language": "港式粤语",
+  "target_audiences": ["香港车主", "跨境车主"],
+  "content_pillars": ["发动机维修", "轮胎与底盘", "跨境维修攻略", "真实维修案例"],
+  "calls_to_action": ["预约检查", "联系客服", "到店咨询"],
+  "required_real_footage": ["客户车辆", "具体故障部位", "轮胎实际状态", "真实维修过程"],
+  "prohibited_claims": ["虚构维修结果", "保证修复", "最低价", "未经证明的前后对比"],
+  "platforms": ["抖音", "视频号"],
+  "tone": ["专业", "清楚", "可信"],
+  "contact_details": {}
+}
+

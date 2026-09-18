@@ -1,0 +1,25 @@
+{
+  "mode": "dry_run",
+  "providers": {
+    "avatar": {
+      "name": "heygen",
+      "api_key_env": "HEYGEN_API_KEY",
+      "enabled": false
+    },
+    "generative_video": {
+      "name": "seedance",
+      "api_key_env": "ARK_API_KEY",
+      "enabled": false
+    },
+    "review": {
+      "name": "lark",
+      "enabled": false
+    }
+  },
+  "limits": {
+    "max_cost_per_content": 0,
+    "max_generation_attempts": 2,
+    "publishing_enabled": false
+  }
+}
+
